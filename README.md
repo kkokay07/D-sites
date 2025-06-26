@@ -1,4 +1,4 @@
-# D-Sites: A High-Throughput Computational Tool for Predicting Protein Binding Sites in Bacterial Genomes
+# D-Sites: A Computationally efficient tool for predicting protein binding sites in microbial genomes
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
